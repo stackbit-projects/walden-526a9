@@ -3,7 +3,7 @@ baseURL: /
 params:
   palette: yellow
   header:
-    title: Fjord
+    title: Walden.blog
     tagline: frugality & simple living
     logo_img: images/logo.svg
     logo_img_alt: Fjord Logo
